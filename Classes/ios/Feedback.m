@@ -2,8 +2,8 @@
 //  Feedback.m
 //  Version 1.4
 //
-//  Created by Сергей Ваничкин on 15.02.2018.
-//  Copyright © 2018 👽 Technology. All rights reserved.
+//  Created by Sergey Vanichkin on 15.02.2018.
+//  Copyright © 2018 Sergey Vanichkin. All rights reserved.
 //
 //  Licensed under the Apache License, Version 2.0 (the "License");
 //  you may not use this file except in compliance with the License.
