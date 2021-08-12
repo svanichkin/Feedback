@@ -2,8 +2,8 @@
 //  Feedback.h
 //  Version 1.4
 //
-//  Created by Сергей Ваничкин on 15.02.2018.
-//  Copyright © 2018 👽 Technology. All rights reserved.
+//  Created by Sergey Vanichkin on 15.02.2018.
+//  Copyright © 2018 Sergey Vanichkin. All rights reserved.
 //
 //  Licensed under the Apache License, Version 2.0 (the "License");
 //  you may not use this file except in compliance with the License.
@@ -17,6 +17,17 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 //
+//  Setup with your email or/and imessage
+//
+//  [Feedback
+//   setupWithIMessage:@"my_imessage@me.com"
+//   email:@"my_email.me.com"];
+//
+//  Then do action on user button "Send feedback"
+//
+//  [Feedback
+//   sendFeedbackWithController:self
+//   text:@"User send feedback from App"];
 //
 
 #import <Foundation/Foundation.h>
