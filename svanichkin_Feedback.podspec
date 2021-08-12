@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "svanichkin_Feedback"
-  spec.version      = "0.0.1"
+  spec.version      = "1.4.0"
   spec.summary      = "Class makes it easy to send feedback from users."
 
   # This description is used to generate tags and improve search results.
